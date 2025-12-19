@@ -23,6 +23,10 @@ Esta opción permite a los administradores del sistema borrar reportes de errore
 
 <img width="1698" height="524" alt="image" src="https://github.com/user-attachments/assets/6b0f7c95-e58e-4b99-84ad-093a99f0ba06" />
 
+Diseño Responsivo para celulares
+<img width="813" height="821" alt="image" src="https://github.com/user-attachments/assets/5772c86b-6c69-4e20-9e7d-d8a17863689a" />
+
+
 ---
 
 ## Informe de Decisiones de Diseño 
