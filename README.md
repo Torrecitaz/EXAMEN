@@ -6,15 +6,17 @@ Este proyecto es una aplicación web desarrollada en Laravel para que los beta t
 
 ### 1. Listado de Errores (Index)
 Aquí se muestran todos los bugs reportados con su gravedad y estado actual.
-> [INSERTAR CAPTURA DE LA TABLA PRINCIPAL AQUÍ]
+<img width="1725" height="602" alt="image" src="https://github.com/user-attachments/assets/1a1b4b50-cc9e-40d8-bf47-000b7d6c7c1f" />
+
 
 ### 2. Formulario de Reporte (Create)
 Pantalla donde se registran los nuevos errores encontrados en el juego.
-> [INSERTAR CAPTURA DEL FORMULARIO DE REGISTRO AQUÍ]
+<img width="1119" height="791" alt="image" src="https://github.com/user-attachments/assets/72045d66-e0a3-4ac0-bf36-e08105af1354" />
 
 ### 3. Actualización de Estado (Edit)
 Interfaz para que Sergio pueda cambiar el estado de los bugs a "Arreglado" o "Rechazado".
-> [INSERTAR CAPTURA DE LA PANTALLA DE EDICIÓN AQUÍ]
+<img width="1696" height="586" alt="image" src="https://github.com/user-attachments/assets/ed7a816a-5142-4a32-8ba5-ba23629e6cdd" />
+
 
 ---
 
